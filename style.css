@@ -1,0 +1,27 @@
+img{
+		width:300px;
+		 border: 1px solid #ddd;
+         border-radius: 4px;
+         padding: 5px;
+		 
+	
+}
+
+body{
+	background-color:#AFEEEE;
+	font-family:Arial;
+}
+ .red {
+	 color:red;
+	 
+ }
+ .big_font {
+	 font-size:32px;
+	 
+ }
+ #specialstyle{
+	 background-color:yellow;
+	 border:2px solid red;
+	 width: 60%;
+	 
+ }
